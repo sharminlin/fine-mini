@@ -1,6 +1,6 @@
 {
   "name": "fine-mini",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "page for miniprogram",
   "keywords": ["mini", "fine", "fine-mini"],
   "main": "index.js",
@@ -8,5 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sharmin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharminlin/fine-mini.git"
+  }
 }
